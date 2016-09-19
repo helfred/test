@@ -1,0 +1,1 @@
+@py.exe D:\dev\PySrc\test\mapit.py %*
